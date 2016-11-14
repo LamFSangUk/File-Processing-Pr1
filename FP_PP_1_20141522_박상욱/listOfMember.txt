@@ -1,0 +1,3 @@
+2
+TestUser|T1234|Test|010-0000-0000|Seoul|19000101|Testing@test.com|9
+admin|adminpass|Administrator|010-9999-9999|Busan|19000101|Admin@admin.com|1
